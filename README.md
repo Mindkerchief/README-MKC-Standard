@@ -1,6 +1,6 @@
 # ![logo](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png) README-MKC-Standard ![github-readme](https://img.shields.io/badge/GitHub-README-FFFFFF)
 
-A markdown template of README.md for GitHub repositories that focuses on consistent design and well-structured content. This template tries to use markdown syntax throughout the template to keep the code cleaner and maintainable. A set of images/screenshot resolutions and some other standards are recommended below to maintain a consistent layout while trying to make screenshots readable.
+A markdown template of README.md for GitHub repositories, specifically for desktop and smartphone applications. It focuses on simple, consistent design and well-structured content. This template tries to avoid HTML syntax and maintain markdown syntax throughout the template to keep the code cleaner and maintainable. A set of images/screenshot resolutions and other standards are recommended below to maintain a consistent layout while trying to make screenshots readable.
 
 ## Table of Contents
 - [Standards](#standards)
@@ -12,6 +12,7 @@ The following are recommendations on how to handle images/screenshots during edi
 - The width resolution is recommended to be followed to maintain a consistent design and avoid images from stacking vertically.
 - The height resolution can vary, but is it recommended to keep every image/screenshot resolution identical in a single row.
 - If there is a large gap between images/screenshots in a single row, try to order them from tallest to smallest.
+- Use the HTML syntax `&nbsp;` to add spacing between images/screenshots.
 
 ### Logo Resolution
 - **Thumbnail** - `25x25`
@@ -28,7 +29,7 @@ The following are recommendations on how to handle images/screenshots during edi
 
 ## Usage
 ### Single Landscape
-![screenshot-landscape](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-single-landscape.png) &nbsp;
+![screenshot-landscape](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-single-landscape.png)
 - Ideal for promotional image and application main screen.
 - Recommended for desktop/smartphone (landscape) screenshots.
 
