@@ -8,18 +8,23 @@ A markdown template of README.md for GitHub repositories that focuses on consist
 - [License](#license)
 
 ## Standards
-### Logo
+The following are recommendations on how to handle images/screenshots during editing:
+- The width resolution is recommended to be followed to maintain a consistent design and avoid images from stacking vertically.
+- The height resolution can vary, but is it recommended to keep every image/screenshot resolution identical in a single row.
+- If there is a large gap between images/screenshots in a single row, try to order them from tallest to smallest.
+
+### Logo Resolution
 - **Thumbnail** - `25x25`
 
-### Landscape Screenshot
-- **Single** - `width = 600`
-- **Double** - `width = 400`
-- ~~**Triple** - `width = 264` not recommended.~~
+### Landscape Resolution
+- **Single** - `width: 640px`
+- **Double** - `width: 400px`
+- ~~**Triple** - `width: 264px` not recommended.~~
 
-### Portrait Screenshot
-- **Single** - `width = 350`
-- **Double** - `width = 350`
-- **Triple** - `width = 350`
+### Portrait Resolution
+- **Single** - `width: 264px`
+- **Double** - `width: 264px`
+- **Triple** - `width: 264px`
 
 ## Usage
 ### Single Landscape
