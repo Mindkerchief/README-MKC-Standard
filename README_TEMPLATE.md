@@ -1,6 +1,6 @@
-# ![logo](https://github.com/Mindkerchief/README-MKC-Standard/blob/edebb0bbf98ff8c0ec1b363a8c8ad78bc8ac324d/assets/logo-here.png) Name <a><img src="https://img.shields.io/badge/Environment-Type-FFFFFF"/></a>
+# ![logo](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png) README-MKC-Standard ![github-readme](https://img.shields.io/badge/GitHub-README-FFFFFF)
 
-A blank application that can...
+A blank application that...
 
 ## Table of Contents
 - [Features](#features)
@@ -10,33 +10,24 @@ A blank application that can...
 - [Acknowledgments](#acknowledgments)
 
 ## Features
-### Main Features
-<div>
-  <img src="https://github.com/Mindkerchief/README-MKC-Standard/blob/c05a4490de500f3a7ac702887348d8b37baaae48/assets/screenshot-here-400x225.jpg" alt="screenshot-landscape">
-  &nbsp;
-  <img src="https://github.com/Mindkerchief/README-MKC-Standard/blob/c05a4490de500f3a7ac702887348d8b37baaae48/assets/screenshot-here-400x225.jpg" alt="screenshot-landscape">
-</div>
-&nbsp;
+![screenshot-landscape](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-single-landscape.png) &nbsp;
 
-- **Feature Name** - Feature Description.
-- **Feature Name** - Feature Description.
+### Main Features
+![screenshot-landscape](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-double-landscape.png) &nbsp;
+![screenshot-landscape](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-double-landscape.png)
+
+- **Feature Name** - Feature Description...
+- **Feature Name** - Feature Description...
 
 ### Additionl Features
+![screenshot-portrait](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-triple-portrait.png) &nbsp;
+![screenshot-portrait](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-triple-portrait.png) &nbsp;
+![screenshot-portrait](https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-triple-portrait.png)
 
-<div>
-  <img src="https://github.com/Mindkerchief/README-MKC-Standard/blob/edebb0bbf98ff8c0ec1b363a8c8ad78bc8ac324d/assets/screenshot-here-portrait.jpg" alt="screenshot-portrait">
-  &nbsp;
-  <img src="https://github.com/Mindkerchief/README-MKC-Standard/blob/edebb0bbf98ff8c0ec1b363a8c8ad78bc8ac324d/assets/screenshot-here-portrait.jpg" alt="screenshot-portrait">
-  &nbsp;
-  <img src="https://github.com/Mindkerchief/README-MKC-Standard/blob/edebb0bbf98ff8c0ec1b363a8c8ad78bc8ac324d/assets/screenshot-here-portrait.jpg" alt="screenshot-portrait">
-</div>
-&nbsp;
-
-- **Feature Name** - Feature Description.
-- **Feature Name** - Feature Description.
+- **Feature Name** - Feature Description...
+- **Feature Name** - Feature Description...
 
 ## Usage
-
 ### Basic Operations
 1. Instruction...
 
@@ -44,12 +35,12 @@ A blank application that can...
 - Explanation...
 
 ## Installation
-1. Download the [latest release](https://github.com/Mindkerchief/Mindkerchief/releases).
-2. Install.
-3. Open.
+1. Download the [latest release](https://github.com/Mindkerchief/README-MKC-Standard/releases).
+2. Install...
+3. Open...
 
 ## License
-This project is licensed under the Unlicense License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **[Visual Studio Code](https://code.visualstudio.com/docs)**: As development environment.
+- **[README MKC Standard](https://github.com/Mindkerchief/README-MKC-Standard)**: As GitHub README template.
