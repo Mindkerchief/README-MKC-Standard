@@ -10,7 +10,7 @@ A ___ application that...
 - [Acknowledgments](#acknowledgments)
 
 ## Features
-![screenshot-landscape][single-landscape] &nbsp;
+![screenshot-landscape][single-landscape]
 
 ### Main Features
 ![screenshot-landscape][double-landscape] &nbsp;
@@ -49,9 +49,12 @@ This project is licensed under the ___ License - see the [LICENSE](LICENSE) file
 <!-- Reference -->
 [logo-thumbnail]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png
 [app-badge]: https://img.shields.io/badge/GitHub-README-FFFFFF
+
 [single-landscape]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-single-landscape.png
 [double-landscape]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-double-landscape.png
 [triple-portrait]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-triple-portrait.png
+
 [release-page]: https://github.com/Mindkerchief/README-MKC-Standard/releases
 [readme-mkc-standard]: https://github.com/Mindkerchief/README-MKC-Standard
+
 [description]: link
