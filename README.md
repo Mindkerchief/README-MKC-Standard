@@ -6,6 +6,7 @@ A markdown template of README.md for GitHub repositories, specifically for deskt
 - [Standards](#standards)
 - [Usage](#usage)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Standards
 ### Content Structure
@@ -18,11 +19,11 @@ The following are recommendations on how to effectively write and structure text
 - When changing or adding a section title, keep the section title as short as possible with a maximum of three words.
 
 The following are sentence template recommendation if encountered:
-- Project Badge: <https://img.shields.io/badge/ `Environment-Type-COLOR>` | ![github-readme](https://img.shields.io/badge/Windows-File_Management_System-4483BE)
-- Project Description: `A <app-environment> application that...`
-- Installation: `Download the latest release of <app-name>.`
-- Acknowledgments: `<contributor>: For <contribution>.`
-- License: `This project is licensed under the <licence-name> License`
+- **Project Badge:** https://img.shields.io/badge/ `Environment-Type-COLOR>` | ![github-readme](https://img.shields.io/badge/Windows-File_Management_System-4483BE)
+- **Project Description:** A `<app-environment>` application that...
+- **Installation:** Download the latest release of `<app-name>`.
+- **Acknowledgments:** `<contributor>`: For `<contribution>`.
+- **License:** This project is licensed under the `<licence-name>` License
 
 ### Image Handling
 The following are recommendations on how to consistently handle images/screenshots:
@@ -51,12 +52,13 @@ The following are recommendations on how to properly write markdown syntax:
 - Use `[<reference-description>]: <link>` for link reference.
 - Use `![<alternative-description>][<link-reference>]` for images.
 - Use `&nbsp;` for spacing between images.
+- Use `**[<contributor>][<link-reference>]**: For <contribution>` for acknowledgments.
 - Use single spacing between sections.
 - Use single spacing between references that belong to different sections or purposes.
 
 ## Usage
 ### Single Landscape
-![screenshot-landscape][single-landscape] &nbsp;
+![screenshot-landscape][single-landscape]
 - Ideal for promotional image and application main screen.
 - Recommended for desktop/smartphone (landscape) screenshots.
 
@@ -76,6 +78,9 @@ The following are recommendations on how to properly write markdown syntax:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments
+- **[Shields.io][shields-io]**: For project badge.
+
 <!-- Reference -->
 [logo-thumbnail]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png
 [app-badge]: https://img.shields.io/badge/GitHub-README-FFFFFF
@@ -83,3 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [single-landscape]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-single-landscape.png
 [double-landscape]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-double-landscape.png
 [triple-portrait]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/screenshot-triple-portrait.png
+
+[shields-io]: https://github.com/badges/shields
