@@ -41,7 +41,6 @@ This project is licensed under the <licence-name> License - see the [LICENSE](LI
 
 ## Acknowledgments
 - **[README MKC Standard][readme-mkc-standard]**: For README template.
-- <contributor>: For <contribution>.
 
 <!-- Reference -->
 [logo-thumbnail]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png
