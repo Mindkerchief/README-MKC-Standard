@@ -1,6 +1,5 @@
 # ![logo][logo-thumbnail] README-MKC-Standard ![github-readme][app-badge]
-
-A ___ application that...
+A <app-environment> application that...
 
 ## Table of Contents
 - [Features](#features)
@@ -15,7 +14,6 @@ A ___ application that...
 ### Main Features
 ![screenshot-landscape][double-landscape] &nbsp;
 ![screenshot-landscape][double-landscape]
-
 - **Feature Name** - Feature Description...
 - **Feature Name** - Feature Description...
 
@@ -23,7 +21,6 @@ A ___ application that...
 ![screenshot-portrait][triple-portrait] &nbsp;
 ![screenshot-portrait][triple-portrait] &nbsp;
 ![screenshot-portrait][triple-portrait]
-
 - **Feature Name** - Feature Description...
 - **Feature Name** - Feature Description...
 
@@ -35,16 +32,16 @@ A ___ application that...
 - Explanation...
 
 ## Installation
-1. Download the [latest release][release-page] of ___.
+1. Download the [latest release][release-page] of <app-name>.
 2. Install...
 3. Open...
 
 ## License
-This project is licensed under the ___ License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the <licence-name> License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - **[README MKC Standard][readme-mkc-standard]**: For README template.
-
+- <contributor>: For <contribution>.
 
 <!-- Reference -->
 [logo-thumbnail]: https://github.com/Mindkerchief/README-MKC-Standard/blob/e6aa6e5d50a7de43b5c7d51e576a6eff42c26573/assets/logo-thumbnail.png
@@ -56,5 +53,3 @@ This project is licensed under the ___ License - see the [LICENSE](LICENSE) file
 
 [release-page]: https://github.com/Mindkerchief/README-MKC-Standard/releases
 [readme-mkc-standard]: https://github.com/Mindkerchief/README-MKC-Standard
-
-[description]: link
