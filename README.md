@@ -21,7 +21,8 @@ The following are recommendations on how to effectively write and structure text
 The following are sentence template recommendation if encountered:
 - **Project Badge:** https://img.shields.io/badge/ `Environment-Type-COLOR>` | ![github-readme](https://img.shields.io/badge/Windows-File_Management_System-4483BE)
 - **Project Description:** A `<app-environment>` application that...
-- **Installation:** Download the latest release of `<app-name>`.
+- **Installation:** Download and install the latest version of `<required library>`.
+- **Installation:** Go to the latest `<release page>` of `<app-name>`.
 - **Acknowledgments:** `<contributor>`: For `<contribution>`.
 - **License:** This project is licensed under the `<licence-name>` License
 
