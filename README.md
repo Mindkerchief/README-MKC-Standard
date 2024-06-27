@@ -1,4 +1,4 @@
-# ![logo][logo-thumbnail] README-MKC-Standard ![github-readme][app-badge]
+# ![logo thumbnail][logo-thumbnail] README-MKC-Standard ![github readme][app-badge]
 
 A markdown template of README.md for GitHub repositories, specifically for desktop and smartphone applications. It focuses on simple, consistent design and well-structured content. This template tries to avoid HTML syntax and maintain markdown syntax throughout the template to keep the code cleaner and maintainable. A set of images/screenshot resolutions and other standards are recommended below to maintain a consistent layout while trying to make screenshots readable.
 
@@ -19,12 +19,12 @@ The following are recommendations on how to effectively write and structure text
 - When changing or adding a section title, keep the section title as short as possible with a maximum of three words.
 
 The following are sentence template recommendation if encountered:
-- **Project Badge:** https://img.shields.io/badge/ `Environment-Type-COLOR>` | ![github-readme](https://img.shields.io/badge/Windows-File_Management_System-4483BE)
-- **Project Description:** A `<app-environment>` application that...
+- **Project Badge:** https://img.shields.io/badge/ `Environment-Type-COLOR>` | ![github readme](https://img.shields.io/badge/Windows-File_Management_System-4483BE)
+- **Project Description:** A `<app environment>` application that...
 - **Installation:** Download and install the latest version of `<required library>`.
-- **Installation:** Go to the latest `<release page>` of `<app-name>`.
+- **Installation:** Go to the latest `<release page>` of `<app name>`.
 - **Acknowledgments:** `<contributor>`: For `<contribution>`.
-- **License:** This project is licensed under the `<licence-name>` License
+- **License:** This project is licensed under the `<licence name>` License
 
 ### Image Handling
 The following are recommendations on how to consistently handle images/screenshots:
@@ -51,7 +51,7 @@ The following are recommendations on how to properly write markdown syntax:
 - Use `##` for the section header.
 - Use `###` for section sub-header.
 - Use `[<reference-description>]: <link>` for link reference.
-- Use `![<alternative-description>][<link-reference>]` for images.
+- Use `![<alternative description>][<link-reference>]` for images.
 - Use `&nbsp;` for spacing between images.
 - Use `**[<contributor>][<link-reference>]**: For <contribution>` for acknowledgments.
 - Use single spacing between sections.
@@ -59,20 +59,20 @@ The following are recommendations on how to properly write markdown syntax:
 
 ## Usage
 ### Single Landscape
-![screenshot-landscape][single-landscape]
+![screenshot landscape][single-landscape]
 - Ideal for promotional image and application main screen.
 - Recommended for desktop/smartphone (landscape) screenshots.
 
 ### Double Landscape
-![screenshot-landscape][double-landscape] &nbsp;
-![screenshot-landscape][double-landscape]
+![screenshot landscape][double-landscape] &nbsp;
+![screenshot landscape][double-landscape]
 - Ideal for main features to keep them in one place.
 - Recommended for desktop/smartphone (landscape) screenshots.
 
 ### Triple Portrait
-![screenshot-portrait][triple-portrait] &nbsp;
-![screenshot-portrait][triple-portrait] &nbsp;
-![screenshot-portrait][triple-portrait]
+![screenshot portrait][triple-portrait] &nbsp;
+![screenshot portrait][triple-portrait] &nbsp;
+![screenshot portrait][triple-portrait]
 - Ideal for main features to keep them in one place.
 - Recommended for smartphone (portrait) screenshots.
 
