@@ -1,4 +1,4 @@
-# ![logo][logo-thumbnail] README-MKC-Standard ![github-readme][app-badge]
+# ![logo thumbnail][logo-thumbnail] README-MKC-Standard ![app badge][app-badge]
 A <app-environment> application that...
 
 ## Table of Contents
@@ -9,18 +9,18 @@ A <app-environment> application that...
 - [Acknowledgments](#acknowledgments)
 
 ## Features
-![screenshot-landscape][single-landscape]
+![single landscape][single-landscape]
 
 ### Main Features
-![screenshot-landscape][double-landscape] &nbsp;
-![screenshot-landscape][double-landscape]
+![double landscape][double-landscape] &nbsp;
+![double landscape][double-landscape]
 - **Feature Name** - Feature Description...
 - **Feature Name** - Feature Description...
 
 ### Additionl Features
-![screenshot-portrait][triple-portrait] &nbsp;
-![screenshot-portrait][triple-portrait] &nbsp;
-![screenshot-portrait][triple-portrait]
+![triple portrait][triple-portrait] &nbsp;
+![triple portrait][triple-portrait] &nbsp;
+![triple portrait][triple-portrait]
 - **Feature Name** - Feature Description...
 - **Feature Name** - Feature Description...
 
@@ -32,7 +32,7 @@ A <app-environment> application that...
 - Explanation...
 
 ## Installation
-1. Download and install the latest version of [<required library>](required-library-link).
+1. Download and install the latest version of [<required-library>](required-library-link).
 2. Go to the latest [release page][release-page] of <app-name>.
 3. Install <app-name> and launch.
 
